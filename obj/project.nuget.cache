@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "4O+d+WCeKj+BoF5kDDBNRLS5fX5/hRqpLYNOBxdqeI/hBtXlTQt3w7NNOWdWNk++UcswMqZC3DxWSUkU0lMDIw==",
+  "dgSpecHash": "Y/Q4WxUtzpXw84cXYv/TspVFbytl6Ilh/8Gz7o4BZAIp0nyAhjwnN5zHnZLSW8+YKPMKpP7QJy+j79bRm4BWFw==",
   "success": true,
   "projectFilePath": "/Users/kyle/Documents/Development/playground/PizzaStore/PizzaStore.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/kyle/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/kyle/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/kyle/.nuget/packages/swashbuckle.aspnetcore/6.1.4/swashbuckle.aspnetcore.6.1.4.nupkg.sha512",
+    "/Users/kyle/.nuget/packages/swashbuckle.aspnetcore.swagger/6.1.4/swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "/Users/kyle/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.1.4/swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "/Users/kyle/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.1.4/swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512"
+  ],
   "logs": []
 }
